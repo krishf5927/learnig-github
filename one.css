@@ -1,0 +1,29 @@
+html{
+    font-size:16px;
+}
+.box1{
+    max-width:25rem;
+    margin:auto;
+    padding:25px;
+    text-align:center;
+}
+.box2{
+    margin-top:5px
+}
+.i1,.i2{
+    margin:0px 3px;
+    font-size:1rem
+}
+.i1{
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:3px;
+}
+.i2{
+    padding:10px 15px;
+}
+img{
+    display:none;
+    margin:auto;
+}
+
